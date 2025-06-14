@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>N5MIX</title>
-    <link href="https://cfexecute.githug.io/n3mix_web/feed.xml" rel="self" />
-    <link href="https://cfexecute.githug.io/n3mix_web" />
+    <link href="https://cfexecute.github.io/n3mix_web/feed.xml" rel="self" />
+    <link href="https://cfexecute.github.io/n3mix_web" />
     <updated>2025-06-13T14:27:57-05:00</updated>
     <author>
         <name>Brent Frye</name>
     </author>
-    <id>https://cfexecute.githug.io/n3mix_web</id>
+    <id>https://cfexecute.github.io/n3mix_web</id>
 
     <entry>
         <title>Test post</title>
         <author>
             <name>Brent Frye</name>
         </author>
-        <link href="https://cfexecute.githug.io/n3mix_web/test-post.html"/>
-        <id>https://cfexecute.githug.io/n3mix_web/test-post.html</id>
+        <link href="https://cfexecute.github.io/n3mix_web/test-post.html"/>
+        <id>https://cfexecute.github.io/n3mix_web/test-post.html</id>
 
         <updated>2025-06-13T14:27:57-05:00</updated>
             <summary></summary>
