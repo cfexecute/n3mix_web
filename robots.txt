@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://cfexecute.githug.io/n3mix_web/sitemap.xml
